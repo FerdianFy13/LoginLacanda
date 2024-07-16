@@ -81,8 +81,8 @@
         android:textSize="18sp"
         android:text="@string/get_started"
         android:textColor="@color/black"
-        android:fontFamily="@font/montserrat_light"
-        android:background="@color/white"
+        android:fontFamily="@font/montserrat_semi_bold"
+        android:backgroundTint="@color/white"
         android:layout_marginBottom="42dp"
         android:onClick="clickGetStarted"
         />

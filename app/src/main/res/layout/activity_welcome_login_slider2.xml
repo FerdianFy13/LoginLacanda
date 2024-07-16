@@ -81,9 +81,9 @@
         app:layout_constraintRight_toRightOf="parent"
         android:layout_marginBottom="32dp"
         android:textSize="18sp"
-        android:background="@drawable/button_white"
+        android:fontFamily="@font/montserrat_semi_bold"
+        android:backgroundTint="@color/white"
         android:textColor="@color/black"
-        android:fontFamily="@font/montserrat_light"
         android:onClick="clickGetStarted"
         />
 
